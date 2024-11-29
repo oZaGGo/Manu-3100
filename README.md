@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming games
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on kildomino
-- 😄 Pronouns: he/him
+- 😄 Pronouns: helicopter
 - ⚡ Fun fact: my favourite game is Balatro
 
 <!---
